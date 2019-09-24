@@ -14,7 +14,7 @@ Lab00
 ===============================
 FSM
 ===============================
-![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/HW0/img/FSM_LAB00.jpg)
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/HW0/img/FSM_LAB00_v1.jpg)
 ===============================
 設計說明
 ===============================
