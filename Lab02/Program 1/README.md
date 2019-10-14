@@ -14,6 +14,7 @@ Lab02
 
 flow-chart
 ![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab02/img/Diagram.png)
+
 路徑
 ===============================
 ![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab02/img/Path_and_blockdiagram.png)
