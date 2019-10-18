@@ -15,7 +15,7 @@ void Insertion_Sort(int *arr, int size)
 	{
         int key = arr[i];//store the key
         int j = i - 1;
-        while (key < arr[j] && j >= 0)//compare the keys,until find equal or smaller
+        while (key < arr[j] && j >= 0)//compare the keys, until find equal or smaller
 		{
             arr[j+1] = arr[j];
             j--;
@@ -37,7 +37,7 @@ int Partition(int *arr, int start, int end)//It's the most difficult part in thi
         }
     }
     the_most_right_of_left_parts++;//the_most_right_of_left_parts changes into the partition's position
-    swap(&arr[the_most_right_of_left_parts], &arr[end]);//partition's left are smaller, and right are lager.  
+    swap(&arr[the_most_right_of_left_parts], &arr[end]);//partition's left are smaller, and right are larger.  
     return the_most_right_of_left_parts;//return the partition's position in order to tell the recursion how to partition.
 }
 
