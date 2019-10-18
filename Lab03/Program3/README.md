@@ -1,14 +1,14 @@
 Program3
 ============================
-#Insertion_sort flow chart
+Insertion_sort flow chart
 ============================
 ![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab03/img/insertion_sort.png)
 
-#Quick_sort flow chart
+Quick_sort flow chart
 ============================
 ![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab03/img/quick_sort.png)
 
-#Quick_sort with Insertion_sort flow chart(本次實驗採用此排序法)
+Quick_sort with Insertion_sort flow chart(本次實驗採用此排序法)
 ============================
 ![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab03/img/quick_sort_with_insertion_sort.png)
 
@@ -25,5 +25,5 @@ Worst case:O(n^2)<br />
 Average case:O(nlogn)<br />
 #### Quick sort 則是在Average case 會比較穩定
 
-所以結合兩者，以Quick sort為基底，在排序數量比較低的情況下，再用Insertion sort解掉。
+### ==>所以結合兩者，以Quick sort為基底，在排序數量比較低的情況下，再用Insertion sort解掉。
 
