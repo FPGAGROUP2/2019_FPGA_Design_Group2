@@ -14,9 +14,9 @@ Program3
 #Time Complexity 
 ============================
 # Insertion Sort
-## Best case:O(1)
-## Worst case:O(n^2)
-## Average case:O(n^2)
+Best case:O(1)  <br />
+Worst case:O(n^2)  <br />
+Average case:O(n^2)  <br />
 ## Best case 是在幾乎已經排好的情況下，Insertion sort會有好處，而Worst case 是在排序反過來的情況下，會有O(n^2)的糟糕情況
 # Quick sort
 ## Best case:O(nlogn)
