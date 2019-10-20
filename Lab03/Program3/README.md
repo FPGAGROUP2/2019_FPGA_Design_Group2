@@ -27,3 +27,8 @@ Average case:O(nlogn)<br />
 
 ### ==>所以結合兩者，以Quick sort為基底，在排序數量比較低的情況下，再用Insertion sort解掉。
 
+# 結果截圖
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab03/img/1.png)
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab03/img/2.png)
+
+
