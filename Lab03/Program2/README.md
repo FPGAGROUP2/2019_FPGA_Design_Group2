@@ -4,16 +4,16 @@ Program2
 
 
 #include "xparameters.h"
+
 #include "xgpio.h"
+
 #include "xil_printf.h"
 
 #define SW_DEVICE_ID  XPAR_GPIO_0_DEVICE_ID
 
 #define LED_DELAY     10000000
+
 XGpio SW_Gpio;
-
-
-
 
 int main() {
 	int SW_Status;
