@@ -11,9 +11,13 @@ Program2
 
 Program3
 在PS端依序傳入格視為char(8bit)的資料，並透過以下迴圈函式運算。
+
 hash=5381;
+
 while(*ptr++){
+
 hash = ((hash << 5) + hash) + c ; 
+
 }
 
 Program4
