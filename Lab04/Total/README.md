@@ -44,3 +44,4 @@ Program4
 
 Program5
 
+此題須從FPGA上才能顯示結果。
