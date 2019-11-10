@@ -30,17 +30,17 @@ Program5
 
 Program1
 
-[image]https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab04/img/Program1.PNG
+![image]https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab04/img/Program1.PNG
 
 Program2
 
 Program3
 
-[image]https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab04/img/Program3.PNG
+![image]https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab04/img/Program3.PNG
 
 Program4
 
-[image]https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab04/img/Program4.PNG
+![image]https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab04/img/Program4.PNG
 
 Program5
 
