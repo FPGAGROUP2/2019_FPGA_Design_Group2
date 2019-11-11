@@ -1,5 +1,7 @@
 # 將IP Program 1 ~ Program 5組裝在一起後所得到的Block Diagram
 
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab04/img/lab4%20block%20diagram.PNG)
+
 IP introduction
 
 Program1
