@@ -7,7 +7,28 @@
 * 5: 行列式 (det(A))
 ## 結果
 ### Matrix A
-
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/MatrixA.JPG)
 ### Matrix B
-
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/MatrixB.JPG)
 ### 加法
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/result%20for%20cmd%3D1.png)
+### 減法
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/result%20for%20cmd%3D2.png)
+### 乘法
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/result%20for%20cmd%3D3.png)
+### 轉置
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/result%20for%20cmd%3D4.png)
+### 行列式
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/result%20for%20cmd%3D5.png)
+### 支援負數
+#### Ex.1
+將matrix B變為<br/>
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/negative_MatrixB.JPG)<br/>
+再做乘法，結果為<br/>
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/negative%20result%20for%20cmd%3D3.png)<br/>
+#### Ex.2
+將matrix A變為<br/>
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/negative_MatrixA.JPG)<br/>
+再取行列式值，結果為<br/>
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/negative%20result%20for%20cmd%3D5.png)<br/>
+## 討論
