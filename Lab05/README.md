@@ -35,4 +35,5 @@
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/negative%20result%20for%20cmd%3D5.png)<br/>
 ## 討論
 在本次作業的結果中，發現除了加法外，其他的功能均正常，為檢測processor是否正確，特別寫testbench測試，發現功能正常，因此懷疑是Vivado或FGPA的錯誤。
-(在testbench資料夾中)
+<br/>
+(測試檔和測試結果均在testbench資料夾中)
