@@ -11,6 +11,7 @@
 ### Matrix B
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/MatrixB.JPG)
 ### 加法
+結果有誤，請看討論<br/>
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/result%20for%20cmd%3D1.png)
 ### 減法
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Lab05/img/result%20for%20cmd%3D2.png)
