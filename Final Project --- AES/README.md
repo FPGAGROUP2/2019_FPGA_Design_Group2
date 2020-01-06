@@ -9,10 +9,11 @@
 * ShiftRows
 * MixColumns
 
+
 ## 各步驟意義
 
 ### AddRoundKey
-
+將當前資料與key XOR並產生新的key
 ### SubBytes
 
 ### ShiftRows
@@ -22,6 +23,7 @@
 
 
 ## AES加密順序
+
 ### First Round
 * AddRoundKey
 ### General Round (9 times)
