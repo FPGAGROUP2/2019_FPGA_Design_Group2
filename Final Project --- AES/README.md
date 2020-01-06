@@ -59,12 +59,27 @@ Inverse MixColumns Matrix
 ## AES FSM/Architecture of encryption/decryption
 
 ### AES cipher
-![image]()
-![image]()
+Finite State Machine
+<br/>
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AES_cipher_fsm.png)
+<br/>
+Architecture
+<br/>
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AES_cipher_arch.png)
 ### AES encryption
-![image]()
-![image]()
+Finite State Machine
+<br/>
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AES_encryption_fsm.png)
+<br/>
+Architecture
+<br/>
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AES_encryption_arch.png)
 ### AES decryption
-![image]()
-![image]()
+Finite State Machine
+<br/>
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AES_decryption_fsm.png)
+<br/>
+Architecture
+<br/>
+![image](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AES_decryption_arch.png)
 
