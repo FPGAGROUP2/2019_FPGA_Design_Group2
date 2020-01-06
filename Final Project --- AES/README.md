@@ -31,11 +31,9 @@
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/MixColumns.png)
 <br/>
 * Forward MixColumns Matrix
-<br/>
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/matrix_ForwardMixColumns.png)
 <br/>
 * Inverse MixColumns Matrix
-<br/>
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/matrix_InverseMixColumns.png)
 
 
