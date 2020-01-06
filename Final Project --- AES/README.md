@@ -15,9 +15,9 @@
 ### AddRoundKey
 將當前資料與key XOR並產生新的key
 ### SubBytes
-
+將每一個Byte經過一個switch box以得到新的值
 ### ShiftRows
-
+每一個row依上到下的順序，依序往左循環移位0, 1, 2, 3個Bytes
 ### MixColumns
 
 
