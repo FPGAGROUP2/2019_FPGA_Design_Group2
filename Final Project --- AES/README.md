@@ -19,11 +19,10 @@
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AddRoundKey.png)
 <br/>
 KeyGeneration: 產生新的key，分為下列幾個步驟
-* RotWord: 將key最右邊的column做一個Byte的循環移位
-* SubWord: 將移位過後的4個Byte丟進switch box以得到新的值
-* Rcon: round constant，根據不同的round有不同的constant，將經過SubWord的column與round constant XOR得到一個參考word
-* 將此參考word與原來的1st column XOR可得到新的1st column，將新的1st column與原來的2nd column XOR可得到新的2nd column，以此類推可得到完整的新key
-<br/>
+1. RotWord: 將key最右邊的column做一個Byte的循環移位
+2. SubWord: 將移位過後的4個Byte丟進switch box以得到新的值
+3. Rcon: round constant，根據不同的round有不同的constant，將經過SubWord的column與round constant XOR得到一個參考word
+4. 將此參考word與原來的1st column XOR可得到新的1st column，將新的1st column與原來的2nd column XOR可得到新的2nd column，以此類推可得到完整的新key
 <br/>
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/KeyGeneration.png)
 ### SubBytes
