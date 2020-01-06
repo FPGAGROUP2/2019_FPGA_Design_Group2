@@ -17,9 +17,9 @@
 ### SubBytes
 將每一個Byte經過一個switch box以得到新的值
 ### ShiftRows
-每一個row依上到下的順序，依序往左循環移位0, 1, 2, 3個Bytes
+將每一個row依上到下的順序，依序往左循環移位0, 1, 2, 3個Bytes
 ### MixColumns
-
+將每一個column都透過同一個4\*4的矩陣變換
 
 
 ## AES加密順序
