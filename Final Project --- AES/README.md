@@ -17,6 +17,10 @@
 將當前資料與key XOR並產生新的key
 <br/>
 ![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AddRoundKey.png)
+<br/>
+KeyGeneration: 產生新的key
+<br/>
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/KeyGeneration.png)
 ### SubBytes
 將每一個Byte經過一個switch box以得到新的值
 <br/>
