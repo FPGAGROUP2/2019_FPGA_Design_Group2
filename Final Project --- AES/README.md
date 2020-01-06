@@ -16,27 +16,27 @@
 ### AddRoundKey
 將當前資料與key XOR並產生新的key
 <br/>
-![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/img/AddRoundKey.png)
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/AddRoundKey.png)
 ### SubBytes
 將每一個Byte經過一個switch box以得到新的值
 <br/>
-![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/img/SubBytes.png)
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/SubBytes.png)
 ### ShiftRows
 將每一個row依上到下的順序，依序往左循環移位0, 1, 2, 3個Bytes
 <br/>
-![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/img/ShiftRows.png)
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/ShiftRows.png)
 ### MixColumns
 將每一個column都透過同一個4\*4的矩陣變換
 <br/>
-![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/img/MixColumns.png)
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/MixColumns.png)
 <br/>
 * Forward MixColumns Matrix
 <br/>
-![images]()
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/matrix_ForwardMixColumns.png)
 <br/>
 * Inverse MixColumns Matrix
 <br/>
-![images]()
+![images](https://github.com/FPGAGROUP2/2019_FPGA_Design_Group2/blob/master/Final%20Project%20---%20AES/image/matrix_InverseMixColumns.png)
 
 
 ## AES加密順序
