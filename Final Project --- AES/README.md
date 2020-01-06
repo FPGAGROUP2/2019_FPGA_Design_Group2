@@ -56,11 +56,15 @@ Inverse MixColumns Matrix
 與加密的順序完全相反，且把每個步驟都換成反函數(如: *AddRoundKey* 變成 *AddRoundKey<sup>-1</sup>*)
 
 
-## AES FSM/Architecture
+## AES FSM/Architecture of encryption/decryption
 
 ### AES cipher
-
+![image]()
+![image]()
 ### AES encryption
-
+![image]()
+![image]()
 ### AES decryption
+![image]()
+![image]()
 
