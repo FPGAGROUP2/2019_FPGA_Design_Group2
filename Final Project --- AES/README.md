@@ -18,3 +18,5 @@
 * SubBytes
 * ShiftRows
 * AddRoundKey
+### AES解密
+與加密的順序完全相反，且把每個步驟都換成反函數(如: AddRoundKey => AddRoundKey<sup>-1</sup>)
